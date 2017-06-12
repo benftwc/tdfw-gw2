@@ -1,0 +1,32 @@
+# TDFW Liens utiles
+
+### Discord 
+https://discord.gg/VcB3X6
+
+### Crafts
+* [Armures élevées](https://wiki-fr.guildwars2.com/wiki/Armures_%C3%A9lev%C3%A9es)
+* [Armes élevées](https://wiki-fr.guildwars2.com/wiki/Armes_%C3%A9lev%C3%A9es)
+* [Armes Légendaires](https://wiki-fr.guildwars2.com/wiki/Armes_l%C3%A9gendaires)
+* [Rush métiers](http://gw2crafts.net/fr/)
+ 
+### Builds
+* [Thief](http://qtfy.eu/build/thief)
+* [Elementalist](http://qtfy.eu/build/elementalist/)
+* [War](http://qtfy.eu/build/warrior/)
+* [Gardian](http://qtfy.eu/build/guardian/)
+* [Revenant](http://qtfy.eu/build/revenant/)
+* [Ranger](http://qtfy.eu/build/ranger/)
+* [Engineer](http://qtfy.eu/build/engineer/)
+* [Mesmer](http://qtfy.eu/build/mesmer/)
+* [Necro](http://qtfy.eu/build/necromancer/ )
+ 
+### Guilde
+* [Primes](http://www.lebusmagique.fr/pages/missions-de-guilde/primes-de-guilde.html)
+* [Randonnées](http://www.lebusmagique.fr/pages/missions-de-guilde/les-randonnees-de-guilde.html)
+* [Courses](http://www.lebusmagique.fr/pages/missions-de-guilde/les-courses-de-guilde.html)
+* [Défis](http://www.lebusmagique.fr/pages/missions-de-guilde/les-defis-de-guilde.html)
+* [Puzzles](http://www.lebusmagique.fr/pages/missions-de-guilde/les-puzzles-de-guilde.html)
+ 
+### Outils
+* [Guild Wars 2 Tactical Overlay](http://gw2taco.blogspot.fr/)
+* [Bhagawan's Guild Wars 2 DPS meter](http://gw2bgdm.blogspot.fr/p/faq.html)
