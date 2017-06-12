@@ -23,6 +23,9 @@
 * [Mesmer](http://qtfy.eu/build/mesmer/)
 * [Necro](http://qtfy.eu/build/necromancer/ )
  
+### Autres
+* [Succès de Titres](https://wiki-fr.guildwars2.com/wiki/Titre)
+ 
 ### Guilde
 * [Primes](http://www.lebusmagique.fr/pages/missions-de-guilde/primes-de-guilde.html)
 * [Randonnées](http://www.lebusmagique.fr/pages/missions-de-guilde/les-randonnees-de-guilde.html)
