@@ -3,6 +3,8 @@
 ### Discord 
 https://discord.gg/VcB3X6
 
+<iframe src="https://discordapp.com/widget?id=321651761716920320&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
 ### Crafts
 * [Armures élevées](https://wiki-fr.guildwars2.com/wiki/Armures_%C3%A9lev%C3%A9es)
 * [Armes élevées](https://wiki-fr.guildwars2.com/wiki/Armes_%C3%A9lev%C3%A9es)
