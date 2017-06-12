@@ -1,7 +1,8 @@
 # TDFW Liens utiles
 
-### Discord 
-https://discord.gg/VcB3X6
+![Turn Down For Wipe](http://i.imgur.com/duUolaK.png)
+
+### Discord
 
 <iframe src="https://discordapp.com/widget?id=321651761716920320&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 
