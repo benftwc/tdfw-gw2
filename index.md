@@ -13,6 +13,7 @@
 * [Rush métiers](http://gw2crafts.net/fr/)
  
 ### Builds
+* [Stats par équipements](https://wiki.guildwars2.com/wiki/Equipment_acquisition_by_stats)
 * [Thief](http://qtfy.eu/build/thief)
 * [Elementalist](http://qtfy.eu/build/elementalist/)
 * [War](http://qtfy.eu/build/warrior/)
@@ -22,7 +23,7 @@
 * [Engineer](http://qtfy.eu/build/engineer/)
 * [Mesmer](http://qtfy.eu/build/mesmer/)
 * [Necro](http://qtfy.eu/build/necromancer/ )
- 
+
 ### Autres
 * [Succès de Titres](https://wiki-fr.guildwars2.com/wiki/Titre)
  
