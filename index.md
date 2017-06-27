@@ -13,20 +13,20 @@
 * [Rush métiers](http://gw2crafts.net/fr/)
  
 ### Builds
-* [Stats par équipements](https://wiki.guildwars2.com/wiki/Equipment_acquisition_by_stats)
-* [Thief](http://qtfy.eu/build/thief)
-* [Elementalist](http://qtfy.eu/build/elementalist/)
-* [War](http://qtfy.eu/build/warrior/)
-* [Gardian](http://qtfy.eu/build/guardian/)
-* [Revenant](http://qtfy.eu/build/revenant/)
-* [Ranger](http://qtfy.eu/build/ranger/)
-* [Engineer](http://qtfy.eu/build/engineer/)
-* [Mesmer](http://qtfy.eu/build/mesmer/)
-* [Necro](http://qtfy.eu/build/necromancer/ )
+* [Stats par équipements (EN)](https://wiki.guildwars2.com/wiki/Equipment_acquisition_by_stats)
+* [Thief / Voleur (EN)](http://qtfy.eu/build/thief)
+* [Elementalist (EN)](http://qtfy.eu/build/elementalist/)
+* [Warrior / Guerrier (EN)](http://qtfy.eu/build/warrior/)
+* [Gardian / Gardien (EN)](http://qtfy.eu/build/guardian/)
+* [Revenant (EN)](http://qtfy.eu/build/revenant/)
+* [Ranger / Rodeur (EN)](http://qtfy.eu/build/ranger/)
+* [Engineer / Ingénieur (EN)](http://qtfy.eu/build/engineer/)
+* [Mesmer / Envouteur (EN)](http://qtfy.eu/build/mesmer/)
+* [Necro (EN)](http://qtfy.eu/build/necromancer/ )
 
 ### Autres
 * [Succès de Titres](https://wiki-fr.guildwars2.com/wiki/Titre)
-* [Spells de CC par classes](http://guildwarshub.com/hard-cc-skill-reference-guide)
+* [Spells de CC par classes (EN)](http://guildwarshub.com/hard-cc-skill-reference-guide)
  
 ### Guilde
 * [Primes](http://www.lebusmagique.fr/pages/missions-de-guilde/primes-de-guilde.html)
