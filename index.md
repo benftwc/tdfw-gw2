@@ -26,6 +26,7 @@
 
 ### Autres
 * [Succès de Titres](https://wiki-fr.guildwars2.com/wiki/Titre)
+* [Spells de CC par classes](http://guildwarshub.com/hard-cc-skill-reference-guide)
  
 ### Guilde
 * [Primes](http://www.lebusmagique.fr/pages/missions-de-guilde/primes-de-guilde.html)
