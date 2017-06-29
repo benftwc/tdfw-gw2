@@ -27,7 +27,15 @@
 ### Autres
 * [Succès de Titres](https://wiki-fr.guildwars2.com/wiki/Titre)
 * [Spells de CC par classes (EN)](http://guildwarshub.com/hard-cc-skill-reference-guide)
- 
+
+### Missions de guilde
+* [Randonnées](http://www.lebusmagique.fr/pages/missions-de-guilde/les-randonnees-de-guilde.html)
+* [Primes](http://www.lebusmagique.fr/pages/missions-de-guilde/primes-de-guilde.html)
+* [Courses](http://www.lebusmagique.fr/pages/missions-de-guilde/les-courses-de-guilde.html)
+* [Puzzle](http://www.lebusmagique.fr/pages/missions-de-guilde/les-defis-de-guilde.html)
+* [JcJ](http://www.lebusmagique.fr/pages/missions-de-guilde/missions-jcj.html)
+* [McM](http://www.lebusmagique.fr/pages/missions-de-guilde/missions-mcm.html)
+
 ### Guilde
 * [Primes](http://www.lebusmagique.fr/pages/missions-de-guilde/primes-de-guilde.html)
 * [Randonnées](http://www.lebusmagique.fr/pages/missions-de-guilde/les-randonnees-de-guilde.html)
