@@ -36,13 +36,6 @@
 * [JcJ](http://www.lebusmagique.fr/pages/missions-de-guilde/missions-jcj.html)
 * [McM](http://www.lebusmagique.fr/pages/missions-de-guilde/missions-mcm.html)
 
-### Guilde
-* [Primes](http://www.lebusmagique.fr/pages/missions-de-guilde/primes-de-guilde.html)
-* [Randonnées](http://www.lebusmagique.fr/pages/missions-de-guilde/les-randonnees-de-guilde.html)
-* [Courses](http://www.lebusmagique.fr/pages/missions-de-guilde/les-courses-de-guilde.html)
-* [Défis](http://www.lebusmagique.fr/pages/missions-de-guilde/les-defis-de-guilde.html)
-* [Puzzles](http://www.lebusmagique.fr/pages/missions-de-guilde/les-puzzles-de-guilde.html)
- 
 ### Outils
 * [Guild Wars 2 Tactical Overlay](http://gw2taco.blogspot.fr/)
 * [Bhagawan's Guild Wars 2 DPS meter](http://gw2bgdm.blogspot.fr/p/faq.html)
